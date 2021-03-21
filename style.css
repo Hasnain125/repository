@@ -1,0 +1,59 @@
+table{width: 100%;
+}
+table{background-color: rgb(240, 220, 235);
+
+position:sticky;
+
+}
+
+
+a{color: black}
+
+.imgone{
+    width:100% ;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    
+    
+}
+
+  
+h1{
+
+    font-style: bold; 
+    color: rgb(223, 6, 89);
+}
+
+a{color: palevioletred;}
+
+
+body{
+
+
+
+    height: 600px; 
+    margin: 0px;
+}
+h2{color: rgb(216, 109, 145);}
+
+div{
+    
+    background-color: rgb(240, 232, 235);
+}
+
+.one{
+    background-color: rgba(175, 235, 13, 0.952);
+    width: 100%;
+    height: 115px;
+}
+.ice{width:100% ;
+
+}
+
+.hasu{ background-color: antiquewhite;
+
+}
+
+
+
+
